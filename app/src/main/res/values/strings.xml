@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">timers</string>
+    <string name="_60">60</string>
 </resources>
